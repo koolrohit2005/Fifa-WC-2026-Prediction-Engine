@@ -35,5 +35,5 @@ npm run dev
 
 ## Attribution
 
-Model, analysis, and forecast: **Rohit Balaji** (Python / pandas / scikit-learn / Jupyter).
+Model, analysis, and forecast: **Rohit Maha Balaji** (Python / pandas / scikit-learn / Jupyter).
 Frontend built with AI assistance (Claude).
