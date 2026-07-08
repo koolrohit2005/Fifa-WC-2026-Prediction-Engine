@@ -2,7 +2,7 @@
 
 A 4-model ensemble forecasting system for the 2026 FIFA World Cup, with a live in-browser Monte Carlo tournament simulator.
 
-**Live site:** _add your Vercel URL here after deploying_
+**Live site:** (https://fifa-wc-2026-prediction-engine-6p32.vercel.app/)
 
 ## The Model (Python)
 
