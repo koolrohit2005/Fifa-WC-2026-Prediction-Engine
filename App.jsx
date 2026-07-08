@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect, useMemo } from "react";
 
 // ============================================================
-// FIFA 2026 PREDICTION ENGINE — Rohit Balaji
+// FIFA 2026 PREDICTION ENGINE — Rohit Maha Balaji
 // Headline forecast: 4-model ensemble (ELO + RF + LR + Climate)
 // trained on 15,817 international matches, 10,000-run Monte Carlo
 // Live simulator below runs the ELO layer in-browser on the
