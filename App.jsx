@@ -464,7 +464,7 @@ export default function PredictionEngine() {
             ))}
           </div>
           <p className="mono" style={{ color: C.dim, fontSize: 11.5, marginTop: 16, marginBottom: 0 }}>
-            Model, analysis & forecast: Rohit Balaji (Python / scikit-learn / Jupyter).
+            Model, analysis & forecast: Rohit Maha Balaji (Python / scikit-learn / Jupyter).
             Interactive frontend built with AI assistance. The live simulator above runs the
             ELO layer client-side; official forecast numbers come from the full 4-model ensemble.
           </p>
