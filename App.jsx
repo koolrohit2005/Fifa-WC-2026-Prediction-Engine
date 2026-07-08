@@ -232,7 +232,7 @@ export default function PredictionEngine() {
         <p style={{ color: C.muted, maxWidth: 660, fontSize: 15.5, lineHeight: 1.55, margin: 0 }}>
           A 4-model ensemble — ELO ratings, Random Forest, Logistic Regression, and a
           climate-similarity feature — trained on 15,817 international matches and run through
-          10,000 Monte Carlo tournament simulations. Built in Python by Rohit Balaji.
+          10,000 Monte Carlo tournament simulations. Built in Python by Rohit Maha Balaji.
         </p>
       </header>
 
